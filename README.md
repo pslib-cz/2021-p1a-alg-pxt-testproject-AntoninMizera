@@ -1,4 +1,4 @@
-# Micro:bit V2 empty project files
+# Micro:bit V2 empty project files, de-Pythonized
 
 #### Metadata (used for search, rendering)
 
